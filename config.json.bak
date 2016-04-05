@@ -1,8 +1,0 @@
-config.json{
-    "Debug": true,
-    "Addr": ":8080",
-    "TemplateDir": "./template",
-    "StaticAddr": ":8081",
-    "StaticDir": "./static",
-    "StaticHost": "http://127.0.0.1:8081"
-}

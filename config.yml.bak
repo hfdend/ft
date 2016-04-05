@@ -1,0 +1,8 @@
+# 调试模式
+debug: 0
+# 监听端口
+listen-addr : ":8080"
+# 模板文件目录
+template-dir: "./template"
+# 静态文件目录
+static-dir: "./static"
